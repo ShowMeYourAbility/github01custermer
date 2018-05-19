@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-hello	hi
-您好	打扰了
-=======
 hello
 您好
->>>>>>> parent of 23ba72e... 增加英文其他问候语
